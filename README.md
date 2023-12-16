@@ -1,5 +1,10 @@
 # HousePrice
 
+Here is our team's final project.
+
+The dataset is from a very famous kaggle data challenge: https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/overview
+
+Here is a brief intro of this dataset:
 
 ### File descriptions
 train.csv - the training set
